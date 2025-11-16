@@ -1,11 +1,11 @@
-# Higher Diploma in Science in Computing - Data Analytics
+# Higher Diploma in Science - Data Analytics
 ******
-
-![Statistic](images/image_statistic_01.webp)
 
 ## Applied Statistics - Assessment
 
 This repository was created as part of the [Applied Statistics](https://www.atu.ie/courses/higher-diploma-in-science-data-analytics) assessment module for the course in the [Higher Diploma in Data Analytics](https://www.atu.ie/courses/higher-diploma-in-science-data-analytics). This README has been written with [Github's Documentation On READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in mind. [[1]](#1) This assesment is using the [assessment instructions](https://github.com/ianmcloughlin/applied-statistics/blob/main/assessment/assessment.md) to demonstrate the skills developed in the course in data analysis and visualization. [[2]](#2) You can find more about [writing in Mark Down in GitHub's documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). [[3]](#3)
+
+![Statistic](images/image_statistic_01.webp)
 
 ## About This Assessment
 
