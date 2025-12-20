@@ -73,18 +73,18 @@ Overall, these problems collectively demonstrate how simulation, visualization, 
 
 ## How to Use This Repository
 
-1. Clone or download the repository:
-   ```bash
+**1. Clone or download the repository:**
+   ```
    git clone <https://github.com/RodrigoDMU/applied_statistics_assessment>
 
    cd applied_statistics_assessment
     ```
 
-2. Install required libraries
-   ```bash
+**2. Install required libraries:**
+   ```
     pip install numpy scipy matplotlib
     ```
-3. Open the Jupyter Notebook
+**3. Open the Jupyter Notebook**
 
 Then open the [problems.ipynb](https://github.com/RodrigoDMU/applied_statistics_assessment/blob/main/problems.ipynb) notebook file and run the cells sequentially.
 
