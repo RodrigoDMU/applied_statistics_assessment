@@ -74,7 +74,7 @@ Overall, these problems collectively demonstrate how simulation, visualization, 
 ## How to Use This Repository
 
 **1. Clone or download the repository:**
-   ```
+   ```bash
    git clone <https://github.com/RodrigoDMU/applied_statistics_assessment>
 
    cd applied_statistics_assessment
@@ -82,7 +82,7 @@ Overall, these problems collectively demonstrate how simulation, visualization, 
 
 **2. Install required libraries:**
 
-   ```
+   ```bash
     pip install numpy scipy matplotlib
 ```
 **3. Open the Jupyter Notebook**
