@@ -79,6 +79,7 @@ Overall, these problems collectively demonstrate how simulation, visualization, 
 
    cd applied_statistics_assessment
     ```
+
 2. Install required libraries
    ```bash
     pip install numpy scipy matplotlib
@@ -87,8 +88,8 @@ Overall, these problems collectively demonstrate how simulation, visualization, 
 
 Then open the [problems.ipynb](https://github.com/RodrigoDMU/applied_statistics_assessment/blob/main/problems.ipynb) notebook file and run the cells sequentially.
 
-    - Each problem is clearly divided into sections.
-    - Explanations are written directly below the relevant code.
+- Each problem is clearly divided into sections.
+- Explanations are written directly below the relevant code.
 
 ## References
 
