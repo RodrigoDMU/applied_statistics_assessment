@@ -17,6 +17,22 @@ This assesssment is useful for demonstrating some of the skills developed for an
 
 ## Assessment Overview
 
+The notebook is divided into **four main problems**, each addressing a key statistical concept:
+
+1. **Extending the Lady Tasting Tea**
+2. **Normal Distribution**
+3. **t-Tests and Type II Errors**
+4. **ANOVA**
+
+All analyses are reproducible and include clear explanations, visualizations, and conclusions.
+
+## Libraries Used
+
+- **NumPy** – numerical computation and simulation.
+- **Math** – mathematical functions from the standard library.
+- **SciPy** – statistical tests (t-tests, ANOVA).
+- **Matplotlib** – data visualization.
+
 ### Problem 1: Extending the Lady Tasting Tea
 
 - Extend the classic Lady Tasting Tea experiment.
@@ -40,6 +56,20 @@ This assesssment is useful for demonstrating some of the skills developed for an
 - Generate multiple independent samples with different means.
 - Perform a one-way ANOVA and pairwise t-tests.
 - Understand why ANOVA is preferred when comparing more than two groups to control for error rates.
+
+## Overall Conclusion
+
+This assessment explored fundamental concepts in applied statistics through a series of simulation-based problems implemented in Python. Across all four problems, the focus was on understanding hypothesis testing, probability, sampling variability, error rates, and appropriate methods for comparing group means, supported by both numerical results and visualizations.
+
+In Problem 1, the extended Lady Tasting Tea experiment demonstrated how experimental design influences statistical evidence. By increasing the number of cups, the probability of achieving a perfect result by chance decreased substantially, strengthening the evidence against the null hypothesis. This problem highlighted how more stringent designs naturally reduce false positives and improve the interpretability of extreme outcomes without relying solely on stricter significance thresholds.
+
+Problem 2 examined sampling variability by comparing the sample standard deviation (ddof = 1) and population standard deviation (ddof = 0) across many small samples. The simulations showed that the sample standard deviation provides a less biased estimate of the true population variability for small sample sizes. Visualizing the distributions reinforced the importance of bias correction and illustrated how both estimators converge as sample size increases.
+
+In Problem 3, simulations were used to investigate Type II errors in independent two-sample t-tests. The results clearly demonstrated the relationship between effect size and statistical power: when the true mean difference was small, the probability of failing to reject a false null hypothesis was high, but this probability decreased steadily as the mean difference increased. This problem emphasized the practical importance of effect size and sample size in experimental design and hypothesis testing.
+
+Finally, Problem 4 compared one-way ANOVA with multiple pairwise t-tests for analyzing differences among more than two groups. ANOVA successfully detected overall differences in group means while controlling the Type I error rate. Boxplots provided an intuitive visual confirmation of the underlying differences, and follow-up t-tests identified specific group contrasts. This reinforced why ANOVA is the preferred primary method when comparing multiple group means.
+
+Overall, these problems collectively demonstrate how simulation, visualization, and formal statistical testing work together to support sound statistical reasoning. The assessment highlights best practices in experimental design, hypothesis testing, and interpretation of results, illustrating how thoughtful application of statistical methods leads to more reliable and meaningful conclusions in data analysis.
 
 ## References
 
