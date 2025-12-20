@@ -86,6 +86,7 @@ Overall, these problems collectively demonstrate how simulation, visualization, 
 3. Open the Jupyter Notebook
 
 Then open the [problems.ipynb](https://github.com/RodrigoDMU/applied_statistics_assessment/blob/main/problems.ipynb) notebook file and run the cells sequentially.
+
     - Each problem is clearly divided into sections.
     - Explanations are written directly below the relevant code.
 
