@@ -26,7 +26,7 @@ The notebook is divided into **four main problems**, each addressing a key stati
 
 All analyses are reproducible and include clear explanations, visualizations, and conclusions.
 
-## Libraries Used
+### Libraries Used
 
 - **NumPy** – numerical computation and simulation.
 - **Math** – mathematical functions from the standard library.
@@ -57,7 +57,7 @@ All analyses are reproducible and include clear explanations, visualizations, an
 - Perform a one-way ANOVA and pairwise t-tests.
 - Understand why ANOVA is preferred when comparing more than two groups to control for error rates.
 
-## Overall Conclusion
+### Overall Conclusion
 
 This assessment explored fundamental concepts in applied statistics through a series of simulation-based problems implemented in Python. Across all four problems, the focus was on understanding hypothesis testing, probability, sampling variability, error rates, and appropriate methods for comparing group means, supported by both numerical results and visualizations.
 
