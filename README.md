@@ -71,6 +71,24 @@ This assessment explored fundamental concepts in applied statistics through a se
 
 Overall, these problems collectively demonstrate how simulation, visualization, and formal statistical testing work together to support sound statistical reasoning. The assessment highlights best practices in experimental design, hypothesis testing, and interpretation of results, illustrating how thoughtful application of statistical methods leads to more reliable and meaningful conclusions in data analysis.
 
+## How to Use This Repository
+
+1. Clone or download the repository:
+   ```bash
+   git clone <https://github.com/RodrigoDMU/applied_statistics_assessment>
+
+   cd applied_statistics_assessment
+    ```
+2. Install required libraries
+   ```bash
+    pip install numpy scipy matplotlib
+    ```
+3. Open the Jupyter Notebook
+
+Then open the [problems.ipynb](https://github.com/RodrigoDMU/applied_statistics_assessment/blob/main/problems.ipynb) notebook file and run the cells sequentially.
+    - Each problem is clearly divided into sections.
+    - Explanations are written directly below the relevant code.
+
 ## References
 
 <a id="1">[1]</a> About READMEs. Availible: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes 
